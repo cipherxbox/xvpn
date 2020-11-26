@@ -1,5 +1,6 @@
 #include "common.h"
 
-int main(){
-	Startup();
+int main() {
+  Startup();
+  Terminate();
 }
